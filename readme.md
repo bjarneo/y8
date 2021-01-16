@@ -1,7 +1,7 @@
 Yet Another Templating Engine // YATE // Y8
 ===========
 
-This is however just a minimal approach to solve the problem, such as many others. However, this is just wow.
+This is a minimal approach to solve the problem, such as many others. However, this is just wow.
 
 ### The classic selling points
 * 👌 Isomorphic, which means it works in both Node and the frontend
