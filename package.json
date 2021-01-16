@@ -1,6 +1,6 @@
 {
     "name": "y8",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Yet Another Templating Engine",
     "main": "index.js",
     "scripts": {
