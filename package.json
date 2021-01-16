@@ -1,0 +1,43 @@
+{
+  "name": "y8",
+  "version": "1.0.0",
+  "description": "Yet Another Templating Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha .",
+    "test:watch": "mocha . --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarneo/y8.git"
+  },
+  "keywords": [
+    "template",
+    "templating",
+    "engine"
+  ],
+  "author": "Bjarne Oeverli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjarneo/y8/issues"
+  },
+  "homepage": "https://github.com/bjarneo/y8#readme",
+  "devDependencies": {
+    "husky": "^4.3.6",
+    "lint-staged": "^10.5.3",
+    "mocha": "^8.2.1",
+    "prettier": "^2.2.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "among": "^2.0.0",
+    "dlv": "^1.1.3"
+  }
+}
