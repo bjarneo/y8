@@ -1,13 +1,13 @@
-Yet Another Templating Engine // YATE // Y8
+Yet Another Templating Engine [YATE [Y8]]
 ===========
 
 This is a minimal approach to solve the problem, such as many others. However, this is just wow.
 
 ### The classic selling points
-* 👌 Isomorphic, which means it works in both Node and the frontend
-* 🔥 Fast enough
-* 🦶 Small footprint 
-* 🤩 Simply the best small template engine
+* 👌 Isomorphic, which means it works in both the server, and the client.
+* 🔥 Fast enough.
+* 🦶 Small enough.
+* 🤩 Simply the best itsy bitsy template engine ever made.
 
 ### Installation
 ```
@@ -69,4 +69,4 @@ template(html, replacements);
 ```
 
 ## License
-MIT - See LICENSE
+MIT - © Bjarne Oeverli - See LICENSE
