@@ -24,7 +24,7 @@
 
 -   👌 Isomorphic, which means it works in both the server, and the client.
 -   🔥 Fast enough.
--   🦶 Small enough.
+-   🤏 Small enough.
 -   🤩 Simply the best itsy bitsy template engine ever made.
 
 ### Installation
