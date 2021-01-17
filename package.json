@@ -1,6 +1,6 @@
 {
     "name": "y8",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Yet Another Templating Engine",
     "main": "index.js",
     "scripts": {
@@ -15,7 +15,10 @@
     "keywords": [
         "template",
         "templating",
-        "engine"
+        "engine",
+        "mustache",
+        "templite",
+        "lite"
     ],
     "author": "Bjarne Oeverli",
     "license": "MIT",
