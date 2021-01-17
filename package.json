@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "test": "mocha .",
-        "test:watch": "mocha . --watch"
+        "test:watch": "mocha . --watch",
+        "perf": "node perf.js"
     },
     "repository": {
         "type": "git",
@@ -26,6 +27,7 @@
         "husky": "^4.3.6",
         "lint-staged": "^10.5.3",
         "mocha": "^8.2.1",
+        "nanobench": "^2.1.1",
         "prettier": "^2.2.1"
     },
     "husky": {
